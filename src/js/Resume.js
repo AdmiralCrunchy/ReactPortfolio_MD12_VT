@@ -19,7 +19,7 @@ function App() {
             <section>
                 <Skills />
             </section>
-            <a href='../images/Vincent-Tate.pdf' download>download</a>
+            <a href='../images/Vincent-Tate.pdf' download>Resume Download</a>
         </main>
     )
 }
