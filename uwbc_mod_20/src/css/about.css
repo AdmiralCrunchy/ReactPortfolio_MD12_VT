@@ -1,0 +1,12 @@
+
+.picture {
+    margin-left: 35%;
+    border-radius: 10px;
+    border-style: double;
+    border-width: 5px;
+}
+
+.about {
+    margin-left: 25%;
+    max-width: 50%;
+}

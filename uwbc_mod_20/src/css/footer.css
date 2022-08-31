@@ -1,0 +1,17 @@
+.footer {
+    margin-top: 100px;
+    background-color: lightcoral;
+    border-top: solid;
+    border-width: 5px;
+    border-color: black;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.bottom {
+    margin-left: 25px;
+    margin-right: 25px;
+}

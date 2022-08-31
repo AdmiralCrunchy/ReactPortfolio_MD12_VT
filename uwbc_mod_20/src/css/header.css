@@ -1,0 +1,10 @@
+.toptitle {
+    font-size: 2.5em;
+    background-color: lightcoral;
+    border-style: solid;
+    border-color: black;
+}
+
+.title {
+    font-size: 1.25em;
+}
